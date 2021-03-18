@@ -14,4 +14,11 @@
     </ul>
 </ul>
 
-Coding begins...
+<p>Coding begins...</p>
+
+**Included**
+<ul>
+    <li>Bootstrap AdminLTE dashboard</li>
+    <li>Spatie Role & Permission</li>
+    <li>Laravel Auth</li>
+</ul>
