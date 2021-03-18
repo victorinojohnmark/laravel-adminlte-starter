@@ -11,6 +11,7 @@
         <li>php artisan migrate</li>
         <li>php artisan db:seed --class=PermissionTableSeeder</li>
         <li>php artisan db:seed --class=CreateAdminUserSeeder</li>
+        <li>Login credentials: "admin"/"P@ssw0rd"</li>
     </ul>
 </ul>
 
@@ -18,7 +19,8 @@
 
 **Included**
 <ul>
+    <li>Laravel Framework</li>
     <li>Bootstrap AdminLTE dashboard</li>
     <li>Spatie Role & Permission</li>
-    <li>Laravel Auth</li>
+    <li>Laravel-Auth enabled</li>
 </ul>
